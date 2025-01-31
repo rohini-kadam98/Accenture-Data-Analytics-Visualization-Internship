@@ -22,9 +22,9 @@
 * After Analysis we got data sets needed to complete analysis:
 * Reaction Score(score is used to quantified the popularity)
 * Content ID
-* Reaction Types
-* Content type
-* Category
+* Reaction Types                
+* Content type                            
+* Category                                  
 ### Data Cleaning:
 #### Clean the data by:
 * removing rows that have values which are missing,
@@ -32,9 +32,9 @@
 * removing columns which are not relevant to this task.
 * Think about how each column might be relevant to the business question you’re investigating. If you can’t think of why a column may be useful, it may not be worth including it.
 #### End result will be three cleaned data set :
-[Reactions]()
-[ReactionTypes]()
-[Content]()
+[Reactions]()                   
+[ReactionTypes]()                    
+[Content]()                 
 ### Data Modelling:
 #### Create a final data set by merging 3 tables
 #### End result will be one spreadsheet
