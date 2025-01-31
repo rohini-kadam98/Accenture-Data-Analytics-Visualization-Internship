@@ -32,7 +32,7 @@
 * removing columns which are not relevant to this task.
 * Think about how each column might be relevant to the business question you’re investigating. If you can’t think of why a column may be useful, it may not be worth including it.
 #### End result will be three cleaned data set :
-[Reactions]()                   
+[Reactions](https://github.com/rohini-kadam98/Accenture-Data-Analytics-Visualization-Internship/blob/main/Reactions.csv)                   
 [ReactionTypes]()                    
 [Content]()                 
 ### Data Modelling:
