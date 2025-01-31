@@ -48,7 +48,7 @@ So, the cleaned data set after data modelling & data cleaning : Cleaned Dataset
 #### Charts Involved :
 * Pie Chart
 * Bar Chart
-* Powerpoint Presentation : [PPT]
+* Powerpoint Presentation : ![PPT](https://github.com/rohini-kadam98/Accenture-Data-Analytics-Visualization-Internship/blob/main/Power%20Point%20Presentation.pptx)
 ## Task - 4
 ### Present to the Client:
 #### Present your powerpoint presentation to the client and deliver the insights of your analysis
