@@ -1,6 +1,6 @@
 # Accenture-Data-Analytics & Visualization-Internship
 ## Certificate
-!(https://github.com/rohini-kadam98/Accenture-Data-Analytics-Visualization-Internship/blob/main/Accenture%20Virtual%20Internship%20Certificate.pdf)
+![Certificate](https://github.com/rohini-kadam98/Accenture-Data-Analytics-Visualization-Internship/blob/main/Accenture%20Virtual%20Internship%20Certificate.pdf)
 ## Task-1
 ### Project Understanding:
 #### A data analyst sits between the business and the data.
