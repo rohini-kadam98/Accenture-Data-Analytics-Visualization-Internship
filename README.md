@@ -32,9 +32,9 @@
 * removing columns which are not relevant to this task.
 * Think about how each column might be relevant to the business question you’re investigating. If you can’t think of why a column may be useful, it may not be worth including it.
 #### End result will be three cleaned data set :
-[Reactions](https://github.com/rohini-kadam98/Accenture-Data-Analytics-Visualization-Internship/blob/main/Reactions.csv)                   
-[ReactionTypes](https://github.com/rohini-kadam98/Accenture-Data-Analytics-Visualization-Internship/blob/main/ReactionTypes.csv)                    
-[Content](https://github.com/rohini-kadam98/Accenture-Data-Analytics-Visualization-Internship/blob/main/Content.csv)                 
+* [Reactions](https://github.com/rohini-kadam98/Accenture-Data-Analytics-Visualization-Internship/blob/main/Reactions.csv)                   
+* [ReactionTypes](https://github.com/rohini-kadam98/Accenture-Data-Analytics-Visualization-Internship/blob/main/ReactionTypes.csv)                    
+* [Content](https://github.com/rohini-kadam98/Accenture-Data-Analytics-Visualization-Internship/blob/main/Content.csv)                 
 ### Data Modelling:
 #### Create a final data set by merging 3 tables
 #### End result will be one spreadsheet
